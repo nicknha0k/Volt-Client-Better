@@ -1,4 +1,4 @@
-eu sei esse client e senti que faltava algumas funções e outras estavam ruins, ai eu só dei uma ajeitada e deixei compilado ai.
+eu usei esse client e senti que faltava algumas funções e outras estavam ruins, ai eu só dei uma ajeitada e deixei compilado ai.
 
 (não fui eu que fiz, nem sei quem fez e se quiser faz melhor ai)
 
