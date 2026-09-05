@@ -6,6 +6,6 @@ eu usei esse client e senti que faltava algumas funções e outras estavam ruins
 
 - **ShieldBreaker:** delays corrigidos (não é mais instantâneo) + settings `Cooldown`, `Swap Back`, `Require Axe`, `Wait Cooldown`.
 - **SkinChanger (Misc):** copia a skin de qualquer nick. Settings: `Skin Name`, `Model`, `Cape`.
-- **Notificações:** card arredondado ao ligar/desligar módulo (desliga em `Client > Notifications`).
+- **Notificações:** card arredondado ao ligar/desligar módulo (desliga em `Client > Notifications`) // esse em particular tava fazendo falta.
 - **UI:** tudo arredondado + bug das cores corrigido.
 - **Build:** `./gradlew build` (JDK 21), jar em `build/libs/`.
